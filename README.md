@@ -261,5 +261,3 @@ Type 2, 3, 5, 6, 7: `PosNow[0-1/x-y] = -100`
 - `bTaskRepeat`: repeat frame
 
 ---
-
-*(Generated automatically from the `TCBManajer.java` source code.)*
